@@ -1,3 +1,0 @@
-this is test2.txt text file
-for added the testrep folder
-why this not added
